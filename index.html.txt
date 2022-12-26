@@ -7,7 +7,6 @@ Hi Gowtham:
 2.New branch is created by git checkout -b "BranchName" (or) by git branch -M "BranchName"
     -> In you can type the new code in the old file itself but we have doubt if new branch is created or not.
     -> Confirm new branch is by git checkout master in comtprompt and changing into git checkout BranchName.
-3.
 
 Example code:
 
