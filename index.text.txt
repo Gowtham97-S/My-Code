@@ -1,4 +1,20 @@
-Hi Gowtham
+Hi Gowtham: 
+                                           GIT USAGE:
 
 1.Today i have learned github - git init, git config username and email, git add (file name), git branch -M(optional), 
   git remote add origin https(given in github profile - repository), git push -u origin(master/branch name).
+
+Example code:
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+ <script type="text/javascript" src="index.js">
+</head>
+<body>
+<h1>Gowtham business</h1>
+</body>
+</html>
+
+
