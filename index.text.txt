@@ -1,1 +1,13 @@
 Hi Gowtham
+
+<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="style.css">
+ <script type="text/javascript" src="index.js">
+</head>
+<body>
+<h1>Gowtham business</h1>
+</body>
+</html>
+
