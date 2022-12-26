@@ -1,1 +1,4 @@
 Hi Gowtham
+
+1.Today i have learned github - git init, git config username and email, git add (file name), git branch -M(optional), 
+  git remote add origin https(given in github profile - repository), git push -u origin(master/branch name).
